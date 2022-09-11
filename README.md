@@ -6,4 +6,9 @@
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"/>
 </div>
 
+<div id="footer" align="center">
+  <h3>Contact me</h3>
+  <img src"https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Twitter.png?raw=true"</img>
+</div>
+
 
